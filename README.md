@@ -1,2 +1,2 @@
-# An Text Analytic for Research
+# Text Analytic for Research
 For text analysis
